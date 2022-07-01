@@ -8,6 +8,6 @@ a web app for saving your exercise routines (in progress...)
 
 - Javascript
 
-- Leaflet
+- Leaflet API
 
 - OOP
